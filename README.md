@@ -20,4 +20,4 @@
 
 - step3. In order to run the game we need to put node index.js
 
-  ![Flash-cards-gif!](ttp://g.recordit.co/tflKVKmFhI.gif)
+  ![Flash-cards-gif!](thttps://i.ibb.co/rtZy42L/flash-cards-recording.gif)

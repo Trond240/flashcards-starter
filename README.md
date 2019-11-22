@@ -20,4 +20,4 @@
 
 - step3. In order to run the game we need to put node index.js
 
-![Uploading flash-cards-recording.gif…]()
+![flash-cards-recording.gif…]()
